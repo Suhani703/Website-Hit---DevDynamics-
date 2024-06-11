@@ -14,9 +14,9 @@ These APIs are deployed using Vercel and can be explored and tested directly via
 
 ### Considerations for Edge Cases
 
--Add a Subscriber: Adds a subscriber to the specified topic based on its unique topic ID.
--Notify: Notifies the subscriber by sending a message. Confirms the successful subscription to the specified topic.
--Unsubscribed: Removes the subscriber from the specified topic, ensuring they no longer receive updates. Confirms the successful unsubscription to the subscriber.
+-*Add a Subscriber:* Adds a subscriber to the specified topic based on its unique topic ID.
+-*Notify:* Notifies the subscriber by sending a message. Confirms the successful subscription to the specified topic.
+-*Unsubscribed:* Removes the subscriber from the specified topic, ensuring they no longer receive updates. Confirms the successful unsubscription to the subscriber.
 
 ### Conclusion
 
